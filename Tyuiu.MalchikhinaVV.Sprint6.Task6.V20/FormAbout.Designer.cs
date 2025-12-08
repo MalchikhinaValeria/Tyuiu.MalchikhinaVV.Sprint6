@@ -54,6 +54,7 @@
             labelInfo.Size = new Size(387, 180);
             labelInfo.TabIndex = 1;
             labelInfo.Text = resources.GetString("labelInfo.Text");
+            labelInfo.Click += labelInfo_Click;
             // 
             // buttonOK_MVV
             // 

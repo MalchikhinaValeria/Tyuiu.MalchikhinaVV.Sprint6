@@ -21,5 +21,10 @@ namespace Tyuiu.MalchikhinaVV.Sprint6.Task6.V20
         {
             this.Close();
         }
+
+        private void labelInfo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
